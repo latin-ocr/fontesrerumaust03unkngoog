@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fontesrerumaust03unkngoog_0427.png"; bbox 0 0 3300 5342; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 852 518 931 575">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 852 518 931 575">
+     <span class='ocr_line' id='line_1_1' title="bbox 852 518 931 575; baseline 0.051 -4"><span class='ocrx_word' id='word_1_1' title='bbox 852 518 931 575; x_wconf 65' lang='lat'><strong>1⁸8³.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 724 664 1046 735">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 724 664 1046 735">
+     <span class='ocr_line' id='line_1_2' title="bbox 724 664 1046 735; baseline 0.009 -4"><span class='ocrx_word' id='word_1_2' title='bbox 724 664 1046 735; x_wconf 73' lang='lat' dir='ltr'>Junekhfrauen:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 381 802 805 1320">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 381 802 805 1213">
+     <span class='ocr_line' id='line_1_3' title="bbox 381 802 805 887; baseline 0.024 -22"><span class='ocrx_word' id='word_1_3' title='bbox 381 802 461 867; x_wconf 79' lang='lat' dir='ltr'>Julia</span> <span class='ocrx_word' id='word_1_4' title='bbox 478 804 581 869; x_wconf 65' lang='lat' dir='ltr'>Grfifln</span> <span class='ocrx_word' id='word_1_5' title='bbox 597 828 655 872; x_wconf 77' lang='lat' dir='ltr'><strong>von</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 672 811 805 887; x_wconf 72' lang='lat' dir='ltr'><strong>Ladram</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 382 909 790 993; baseline 0.025 -21"><span class='ocrx_word' id='word_1_7' title='bbox 382 909 468 974; x_wconf 77' lang='lat' dir='ltr'>Clara</span> <span class='ocrx_word' id='word_1_8' title='bbox 486 912 790 993; x_wconf 82' lang='lat' dir='ltr'><strong>Schmetkhowitzin3</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 383 1017 723 1104; baseline 0.024 -24"><span class='ocrx_word' id='word_1_9' title='bbox 383 1017 490 1084; x_wconf 77' lang='lat' dir='ltr'>Vrsula</span> <span class='ocrx_word' id='word_1_10' title='bbox 509 1021 723 1104; x_wconf 68' lang='lat' dir='ltr'>Flitzingerim</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 381 1126 616 1213; baseline 0.013 -24"><span class='ocrx_word' id='word_1_11' title='bbox 381 1126 474 1190; x_wconf 71' lang='lat' dir='ltr'>Maria</span> <span class='ocrx_word' id='word_1_12' title='bbox 491 1128 616 1213; x_wconf 79' lang='lat' dir='ltr'>Poglin3</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 381 1232 799 1320">
+     <span class='ocr_line' id='line_1_7' title="bbox 381 1232 799 1320; baseline 0.022 -26"><span class='ocrx_word' id='word_1_13' title='bbox 381 1232 542 1299; x_wconf 78' lang='lat' dir='ltr'>Poliexena</span> <span class='ocrx_word' id='word_1_14' title='bbox 559 1236 799 1320; x_wconf 78' lang='lat' dir='ltr'><strong>Maraltingerin.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1654 5342">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1654 5342">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 1654 5342; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1654 5342; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

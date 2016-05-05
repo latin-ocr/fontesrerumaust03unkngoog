@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fontesrerumaust03unkngoog_0098.png"; bbox 0 0 3300 5342; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 789 2012 859 2127">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 789 2012 859 2127">
+     <span class='ocr_line' id='line_1_1' title="bbox 789 2012 859 2127; baseline -0.029 0"><span class='ocrx_word' id='word_1_1' title='bbox 789 2012 859 2127; x_wconf 90' lang='grc' dir='ltr'><strong>Π.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 514 2428 1159 2565">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 514 2428 1159 2565">
+     <span class='ocr_line' id='line_1_2' title="bbox 514 2428 1159 2565; baseline 0.008 -20"><span class='ocrx_word' id='word_1_2' title='bbox 514 2428 1159 2565; x_wconf 74' lang='lat' dir='ltr'>SELBST·BIOGRAPH[E</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 8 2772 1405 3004">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 8 2772 1405 3004">
+     <span class='ocr_line' id='line_1_3' title="bbox 8 2772 1405 3004; baseline 0.003 -58"><span class='ocrx_word' id='word_1_3' title='bbox 8 2772 24 2814; x_wconf 61' lang='lat'>³</span> <span class='ocrx_word' id='word_1_4' title='bbox 259 2849 535 2949; x_wconf 66' lang='lat' dir='ltr'><strong>summos</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 578 2849 862 2948; x_wconf 68' lang='lat' dir='ltr'><strong>Fssssfflfflum</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 898 2775 1000 2949; x_wconf 68' lang='grc' dir='ltr'><strong>ΙνοΝ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1043 2850 1405 3004; x_wconf 63' lang='grc' dir='ltr'><strong>ῃειιΒΕΒετΕιΝ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 694 3250 972 3319">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 694 3250 972 3319">
+     <span class='ocr_line' id='line_1_4' title="bbox 694 3250 972 3319; baseline 0.004 -4"><span class='ocrx_word' id='word_1_8' title='bbox 694 3250 972 3319; x_wconf 67' lang='grc'><strong>1486-1883.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1654 5342">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1654 5342">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1654 5342; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1654 5342; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
